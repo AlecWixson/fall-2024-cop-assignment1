@@ -25,7 +25,7 @@ double calculate_height();
 double ask_for_user_input(); // Optional
 // Main program that executes functions in order
 int main(int argc, char **argv) {
-    printf("Program started...\n");
+   
 
     // Calls all of the functions and stores each result
     double distance = calculate_distance();
